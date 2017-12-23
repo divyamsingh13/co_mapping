@@ -1,0 +1,39 @@
+table tr td{
+	color:#000000;
+}
+
+#imc{
+	position:relative;
+	margin-top:1%;
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:3%;
+	padding-left:10%;
+	padding-right:10%;
+	padding-top:3%;
+	padding-bottom:3%;
+	border:3px solid black;
+}
+#imc table{
+	border:none;
+}
+#table1{
+	width:100%;
+}
+#table2{
+	border-collapse:collapse;
+}
+#table2 tr td{
+	border:2px solid black;
+}
+#table3{
+	border-collapse:collapse;
+	text-align:center;
+}
+#table3 tr td {
+	border:1px solid black;
+}
+
+#head td{
+	font-weight:bold;
+}

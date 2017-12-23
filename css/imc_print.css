@@ -1,0 +1,70 @@
+#space{
+	display:none;
+}
+#footer{
+	display:none;
+}
+#cssmenu{
+	display:none;
+}
+#moodle{
+	display:none;
+}
+#header{
+	display:none;
+}
+#logo{
+	display:none;
+}
+#footer_text{
+	display:none;
+}
+#status_text{
+	display: none;
+}
+#logout{
+	display: none;
+}
+#title{
+	display: none;
+}
+#top_margin{
+	display: none;
+}
+#print{
+	display: none;
+}
+#header1{
+	display:none;
+}
+#header_text1{
+	display:none;
+}
+#header_right{
+	display:none;
+}
+#invisible{
+	font-weight:bold;
+	font-family:arial;
+	display:block;
+}
+#top{
+	font-size:18px;
+}
+#imc{
+	position:relative;
+	margin-top:0%;
+	margin-left:0%;
+	margin-right:0%;
+	margin-bottom:0%;
+	padding-left:2%;
+	padding-right:2%;
+	padding-top:2%;
+	padding-bottom:2%;
+	border:none;
+}
+#table3 tr td{
+	padding:1px;
+	text-align:center;
+	font-size:10px;
+}
